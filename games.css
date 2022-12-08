@@ -1,3 +1,21 @@
 h1{
     text-align: center;
+    color: aliceblue;
+}
+body{
+    background-color: gray;
+    background-image: url("fotos/games.jpg");
+}
+
+.col{
+    margin-bottom: 25px;
+}
+#cartao{
+    background-color: rgb(65, 70, 75);
+}
+h5{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
 }
